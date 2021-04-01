@@ -83,4 +83,3 @@ As an aside, there are two notebooks for topic modeling-- one where the models w
 ## Footnotes
 [1] https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response<br/>
 [2] https://www.nimh.nih.gov/health/topics/men-and-mental-health/index.shtml
-# male-mental-health
